@@ -34,7 +34,7 @@ body {
     background:#FFFFFF;
     display: inline-block;
 	transition: border-radius 0.3s linear;
-	 box-shadow: 0px 0px 2px black;
+	 box-shadow: 0px 0px 0px black;
     
    
 }
@@ -48,7 +48,7 @@ body {
     display: inline-block;
     right: 80px;
 	transition: border-radius 0.3s linear;
-	 box-shadow: 0px 0px 2px black;
+	 box-shadow: 0px 0px 0px black;
 	
 }
 
